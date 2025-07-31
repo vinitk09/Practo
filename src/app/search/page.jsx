@@ -3,11 +3,36 @@
 import React, { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
+import Image from 'next/image';
 
-const DoctorCard = ({ doctor }) => (
+
+const DoctorCard = ({ doctor }) => {
+  const doctorImages = [
+    "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=300&h=300&fit=crop",
+    "https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=300&h=300&fit=crop",
+    "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=300&h=300&fit=crop",
+    "https://images.unsplash.com/photo-1527613426441-4da17471b66d?w=300&h=300&fit=crop",
+    "https://images.unsplash.com/photo-1651008376811-b90baee60c1f?w=300&h=300&fit=crop",
+    "https://images.unsplash.com/photo-1551601651-bc60f254d532?w=300&h=300&fit=crop",
+    "https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=300&h=300&fit=crop",
+    "https://images.unsplash.com/photo-1550831107-1553da8c8464?w=300&h=300&fit=crop",
+    "https://images.unsplash.com/photo-1622902046580-2b47f47f5471?w=300&h=300&fit=crop",
+    "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=300&h=300&fit=crop"
+  ];
+  
+  const imageUrl = doctorImages[doctor.id % doctorImages.length];
+  
+  return (
     <div className="bg-white rounded-lg shadow-md overflow-hidden flex flex-col md:flex-row items-start transition-transform hover:scale-[1.02]">
-      <div className="w-full md:w-48 h-48 flex-shrink-0 bg-gray-200 flex items-center justify-center">
-        <span className="text-4xl">👨‍⚕️</span>
+      <div className="w-full md:w-48 h-48 flex-shrink-0 relative">
+        <Image
+          src={imageUrl}
+          alt={`${doctor.name}`}
+          fill
+          className="object-cover"
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          priority={false}
+        />
       </div>
       <div className="p-6 flex-grow">
         <div className="flex justify-between items-start">
@@ -68,9 +93,9 @@ const DoctorCard = ({ doctor }) => (
         </div>
       </div>
     </div>
-);
+  );
+};
 
-// This component contains the logic that uses the searchParams hook
 function SearchContent() {
   const searchParams = useSearchParams();
   const [searchResults, setSearchResults] = useState([]);
@@ -119,7 +144,6 @@ function SearchContent() {
     fetchDoctors();
   }, [stateQuery, specialtyQuery]);
 
-  // The Suspense fallback will handle the initial loading state
   if (loading) {
     return <LoadingSpinner />;
   }
@@ -171,7 +195,6 @@ function SearchContent() {
   );
 }
 
-// A simple loading component to use as the Suspense fallback
 const LoadingSpinner = () => (
   <div className="min-h-screen flex items-center justify-center bg-gray-50">
     <div className="text-center">
@@ -181,8 +204,6 @@ const LoadingSpinner = () => (
   </div>
 );
 
-
-// The main page now wraps the dynamic content in a Suspense boundary
 export default function SearchPage() {
   return (
     <Suspense fallback={<LoadingSpinner />}>

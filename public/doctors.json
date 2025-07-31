@@ -797,6 +797,2637 @@
       "nextAvailable": "Tuesday 5:00 PM"
     },
     "contact": "+91 98369 96369"
+  },
+  
+  {
+    "id": 39,
+    "name": "Dr. Rajesh Kumar",
+    "speciality": "Cardiologist",
+    "experience": "22 years",
+    "address": {
+      "clinic": "Lucknow Heart & Vascular Institute",
+      "location": "Gomti Nagar",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": ["Medanta Hospital, Lucknow"],
+    "consultationFee": 2000,
+    "rating": 4.9,
+    "patientStories": 2100,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday 10:00 AM"
+    },
+    "contact": "+91 9810012345"
+  },
+  {
+    "id": 40,
+    "name": "Dr. Priya Sharma",
+    "speciality": "Dermatologist",
+    "experience": "12 years",
+    "address": {
+      "clinic": "Aura Skin & Hair Clinic",
+      "location": "Sector 18",
+      "city": "Noida",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": ["Max Hospital, Noida", "Fortis Hospital, Noida"],
+    "consultationFee": 1500,
+    "rating": 4.7,
+    "patientStories": 1550,
+    "availability": {
+      "today": true,
+      "nextAvailable": "Today 6:00 PM"
+    },
+    "contact": "+91 9958054321"
+  },
+  {
+    "id": 41,
+    "name": "Dr. Amit Gupta",
+    "speciality": "Orthopedic Surgeon",
+    "experience": "15 years",
+    "address": {
+      "clinic": "Kanpur Bone & Joint Clinic",
+      "location": "Swaroop Nagar",
+      "city": "Kanpur",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1200,
+    "rating": 4.6,
+    "patientStories": 1300,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday 11:30 AM"
+    },
+    "contact": "+91 9335123456"
+  },
+  {
+    "id": 42,
+    "name": "Dr. Anjali Singh",
+    "speciality": "Gynecologist & Obstetrician",
+    "experience": "20 years",
+    "address": {
+      "clinic": "Mother & Child Care Center",
+      "location": "Indirapuram",
+      "city": "Ghaziabad",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": ["Yashoda Super Speciality Hospital"],
+    "consultationFee": 1300,
+    "rating": 4.8,
+    "patientStories": 1900,
+    "availability": {
+      "today": true,
+      "nextAvailable": "Today 4:30 PM"
+    },
+    "contact": "+91 9818011223"
+  },
+  {
+    "id": 43,
+    "name": "Dr. Sameer Verma",
+    "speciality": "Neurologist",
+    "experience": "16 years",
+    "address": {
+      "clinic": "Agra Neuro Care",
+      "location": "Sanjay Place",
+      "city": "Agra",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": ["Rainbow Hospital, Agra"],
+    "consultationFee": 1800,
+    "rating": 4.7,
+    "patientStories": 950,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday 12:00 PM"
+    },
+    "contact": "+91 8877665544"
+  },
+  {
+    "id": 44,
+    "name": "Dr. Alok Mishra",
+    "speciality": "Gastroenterologist",
+    "experience": "14 years",
+    "address": {
+      "clinic": "Ganga Gastro & Liver Center",
+      "location": "Lanka",
+      "city": "Varanasi",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": ["Apex Hospital, Varanasi"],
+    "consultationFee": 1400,
+    "rating": 4.8,
+    "patientStories": 1100,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow 5:00 PM"
+    },
+    "contact": "+91 9415098765"
+  },
+  {
+    "id": 45,
+    "name": "Dr. Meera Patel",
+    "speciality": "Pediatrician",
+    "experience": "10 years",
+    "address": {
+      "clinic": "Chirayu Child Clinic",
+      "location": "Civil Lines",
+      "city": "Prayagraj",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": [],
+    "consultationFee": 800,
+    "rating": 4.9,
+    "patientStories": 1600,
+    "availability": {
+      "today": true,
+      "nextAvailable": "Today 7:15 PM"
+    },
+    "contact": "+91 9839012345"
+  },
+  {
+    "id": 46,
+    "name": "Dr. Vivek Tiwari",
+    "speciality": "General Physician",
+    "experience": "25 years",
+    "address": {
+      "clinic": "Dr. Tiwari's Family Clinic",
+      "location": "Shastri Nagar",
+      "city": "Meerut",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": ["Anand Hospital"],
+    "consultationFee": 700,
+    "rating": 4.5,
+    "patientStories": 2500,
+    "availability": {
+      "today": true,
+      "nextAvailable": "Today 8:00 PM"
+    },
+    "contact": "+91 9412234567"
+  },
+  {
+    "id": 47,
+    "name": "Dr. Sunil Agarwal",
+    "speciality": "Endocrinologist",
+    "experience": "13 years",
+    "address": {
+      "clinic": "Diabetes & Hormone Clinic",
+      "location": "Hazratganj",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": ["Sahara Hospital, Lucknow"],
+    "consultationFee": 1600,
+    "rating": 4.7,
+    "patientStories": 850,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Wednesday 3:00 PM"
+    },
+    "contact": "+91 8090155667"
+  },
+  {
+    "id": 48,
+    "name": "Dr. Neha Chaudhary",
+    "speciality": "Ophthalmologist",
+    "experience": "9 years",
+    "address": {
+      "clinic": "Vision Care Eye Center",
+      "location": "Rampath",
+      "city": "Ayodhya",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": [],
+    "consultationFee": 600,
+    "rating": 4.6,
+    "patientStories": 780,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow 10:30 AM"
+    },
+    "contact": "+91 9554011223"
+  },
+  {
+    "id": 49,
+    "name": "Dr. Rohan Yadav",
+    "speciality": "Pulmonologist",
+    "experience": "11 years",
+    "address": {
+      "clinic": "Kanpur Chest & Sleep Clinic",
+      "location": "Kakadeo",
+      "city": "Kanpur",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": ["Regency Hospital"],
+    "consultationFee": 1100,
+    "rating": 4.5,
+    "patientStories": 650,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday 6:00 PM"
+    },
+    "contact": "+91 9919022334"
+  },
+  {
+    "id": 50,
+    "name": "Dr. Aisha Khan",
+    "speciality": "Psychiatrist",
+    "experience": "8 years",
+    "address": {
+      "clinic": "Mindful Living Center",
+      "location": "Marris Road",
+      "city": "Aligarh",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": [],
+    "consultationFee": 900,
+    "rating": 4.8,
+    "patientStories": 550,
+    "availability": {
+      "today": true,
+      "nextAvailable": "Today 5:00 PM"
+    },
+    "contact": "+91 8881098765"
+  },
+  {
+    "id": 51,
+    "name": "Dr. Vikram Singh Rathore",
+    "speciality": "Urologist",
+    "experience": "19 years",
+    "address": {
+      "clinic": "Uro-Care & Kidney Stone Clinic",
+      "location": "Civil Lines",
+      "city": "Bareilly",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": ["Clara Swain Mission Hospital"],
+    "consultationFee": 1000,
+    "rating": 4.7,
+    "patientStories": 980,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday 11:00 AM"
+    },
+    "contact": "+91 9410123456"
+  },
+  {
+    "id": 52,
+    "name": "Dr. Sneha Maurya",
+    "speciality": "Dentist (BDS, MDS)",
+    "experience": "7 years",
+    "address": {
+      "clinic": "Perfect Smile Dental Care",
+      "location": "Medical College Road",
+      "city": "Gorakhpur",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": [],
+    "consultationFee": 500,
+    "rating": 4.9,
+    "patientStories": 1200,
+    "availability": {
+      "today": true,
+      "nextAvailable": "Today 6:30 PM"
+    },
+    "contact": "+91 9936087654"
+  },
+  {
+    "id": 53,
+    "name": "Dr. Farhan Siddiqui",
+    "speciality": "ENT Specialist",
+    "experience": "14 years",
+    "address": {
+      "clinic": "Siddiqui ENT Clinic",
+      "location": "Budh Vihar",
+      "city": "Moradabad",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": ["Cosmos Hospital"],
+    "consultationFee": 750,
+    "rating": 4.6,
+    "patientStories": 880,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow 1:00 PM"
+    },
+    "contact": "+91 9837054321"
+  },
+  {
+    "id": 54,
+    "name": "Dr. Kavita Joshi",
+    "speciality": "Rheumatologist",
+    "experience": "10 years",
+    "address": {
+      "clinic": "Arthritis & Rheumatology Center",
+      "location": "Sector 62",
+      "city": "Noida",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": ["Jaypee Hospital"],
+    "consultationFee": 1700,
+    "rating": 4.8,
+    "patientStories": 600,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Friday 4:00 PM"
+    },
+    "contact": "+91 9717144556"
+  },
+  {
+    "id": 55,
+    "name": "Dr. Manoj Saxena",
+    "speciality": "Oncologist",
+    "experience": "21 years",
+    "address": {
+      "clinic": "Lucknow Cancer Institute",
+      "location": "Aliganj",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": ["SGPGI, Lucknow"],
+    "consultationFee": 2200,
+    "rating": 4.9,
+    "patientStories": 750,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday 2:00 PM"
+    },
+    "contact": "+91 9415512345"
+  },
+  {
+    "id": 56,
+    "name": "Dr. Ishan Malhotra",
+    "speciality": "Plastic Surgeon",
+    "experience": "12 years",
+    "address": {
+      "clinic": "Enhance Aesthetics Clinic",
+      "location": "Kaushambi",
+      "city": "Ghaziabad",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": ["Max Super Speciality Hospital, Vaishali"],
+    "consultationFee": 2500,
+    "rating": 4.8,
+    "patientStories": 450,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday 3:00 PM"
+    },
+    "contact": "+91 9811099887"
+  },
+  {
+    "id": 57,
+    "name": "Dr. Ritu Agarwal",
+    "speciality": "Dietitian/Nutritionist",
+    "experience": "10 years",
+    "address": {
+      "clinic": "NutriFit Health Clinic",
+      "location": "Kamla Nagar",
+      "city": "Agra",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1000,
+    "rating": 4.7,
+    "patientStories": 1400,
+    "availability": {
+      "today": true,
+      "nextAvailable": "Today 5:30 PM"
+    },
+    "contact": "+91 9897012345"
+  },
+  {
+    "id": 58,
+    "name": "Dr. Harish Chandra",
+    "speciality": "Nephrologist",
+    "experience": "17 years",
+    "address": {
+      "clinic": "Varanasi Kidney Center & Dialysis Unit",
+      "location": "Sigra",
+      "city": "Varanasi",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": ["Heritage Hospital"],
+    "consultationFee": 1500,
+    "rating": 4.6,
+    "patientStories": 820,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Wednesday 10:00 AM"
+    },
+    "contact": "+91 9935123456"
+  },
+  {
+    "id": 59,
+    "name": "Dr. Balwant Singh",
+    "speciality": "General Surgeon",
+    "experience": "28 years",
+    "address": {
+      "clinic": "Elite Surgical Clinic",
+      "location": "Sipri Bazar",
+      "city": "Jhansi",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": [],
+    "consultationFee": 800,
+    "rating": 4.5,
+    "patientStories": 1150,
+    "availability": {
+      "today": true,
+      "nextAvailable": "Today 8:30 PM"
+    },
+    "contact": "+91 9450198765"
+  },
+  {
+    "id": 60,
+    "name": "Dr. Aditi Jaiswal",
+    "speciality": "Homeopath",
+    "experience": "15 years",
+    "address": {
+      "clinic": "Aarogya Homeopathy Clinic",
+      "location": "George Town",
+      "city": "Prayagraj",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": [],
+    "consultationFee": 400,
+    "rating": 4.8,
+    "patientStories": 1800,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow 11:00 AM"
+    },
+    "contact": "+91 9336154321"
+  },
+  {
+    "id": 61,
+    "name": "Dr. Aslam Khan",
+    "speciality": "Cardiothoracic Surgeon",
+    "experience": "24 years",
+    "address": {
+      "clinic": "Heart & Lung Surgery Center",
+      "location": "Vibhuti Khand, Gomti Nagar",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": ["Apollomedics Super Speciality Hospital"],
+    "consultationFee": 2800,
+    "rating": 4.9,
+    "patientStories": 900,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday 4:00 PM"
+    },
+    "contact": "+91 9838012345"
+  },
+  {
+    "id": 62,
+    "name": "Dr. Preeti Verma",
+    "speciality": "Infertility Specialist",
+    "experience": "13 years",
+    "address": {
+      "clinic": "Origyn IVF & Fertility Center",
+      "location": "Pandu Nagar",
+      "city": "Kanpur",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1500,
+    "rating": 4.8,
+    "patientStories": 770,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday 1:00 PM"
+    },
+    "contact": "+91 8887011223"
+  },
+  {
+    "id": 63,
+    "name": "Dr. Rahul Bisht",
+    "speciality": "Sports Medicine Physician",
+    "experience": "8 years",
+    "address": {
+      "clinic": "Pro-Formance Sports Injury Clinic",
+      "location": "Jaypee Greens",
+      "city": "Greater Noida",
+      "state": "Uttar Pradesh"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1400,
+    "rating": 4.7,
+    "patientStories": 400,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday 10:00 AM"
+    },
+    "contact": "+91 9990155443"
+  },
+  
+  {
+    "id": 64,
+    "name": "Dr. Aanya Deshpande",
+    "speciality": "Neurosurgeon",
+    "experience": "18 years",
+    "address": {
+      "clinic": "Mumbai Neuro & Spine Clinic",
+      "location": "Andheri West",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Kokilaben Dhirubhai Ambani Hospital"],
+    "consultationFee": 3500,
+    "rating": 4.9,
+    "patientStories": 1200,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 11:00 AM"
+    },
+    "contact": "+91 9820012345"
+  },
+  {
+    "id": 65,
+    "name": "Dr. Rohan Joshi",
+    "speciality": "Pediatrician",
+    "experience": "15 years",
+    "address": {
+      "clinic": "Little Stars Child Care",
+      "location": "Koregaon Park",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Jehangir Hospital", "Ruby Hall Clinic"],
+    "consultationFee": 1500,
+    "rating": 4.8,
+    "patientStories": 2200,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow 4:00 PM"
+    },
+    "contact": "+91 9850123456"
+  },
+  {
+    "id": 66,
+    "name": "Dr. Sameer Patil",
+    "speciality": "Orthopedic Surgeon",
+    "experience": "20 years",
+    "address": {
+      "clinic": "Central India Bone & Joint Institute",
+      "location": "Ramdaspeth",
+      "city": "Nagpur",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Alexis Multispeciality Hospital"],
+    "consultationFee": 1200,
+    "rating": 4.7,
+    "patientStories": 1800,
+    "availability": {
+      "today": true,
+      "nextAvailable": "Tonight 10:00 PM"
+    },
+    "contact": "+91 9422112345"
+  },
+  {
+    "id": 67,
+    "name": "Dr. Priya Kulkarni",
+    "speciality": "Dermatologist",
+    "experience": "10 years",
+    "address": {
+      "clinic": "The Skin & Aesthetics Hub",
+      "location": "Bandra West",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Lilavati Hospital & Research Centre"],
+    "consultationFee": 2500,
+    "rating": 4.8,
+    "patientStories": 1750,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday 12:30 PM"
+    },
+    "contact": "+91 9819054321"
+  },
+  {
+    "id": 68,
+    "name": "Dr. Anand Shinde",
+    "speciality": "Gastroenterologist",
+    "experience": "16 years",
+    "address": {
+      "clinic": "Pune Gastrosciences Clinic",
+      "location": "Deccan Gymkhana",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Deenanath Mangeshkar Hospital"],
+    "consultationFee": 1800,
+    "rating": 4.7,
+    "patientStories": 1400,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 2:00 PM"
+    },
+    "contact": "+91 9822098765"
+  },
+  {
+    "id": 69,
+    "name": "Dr. Fatima Ansari",
+    "speciality": "Gynecologist & Obstetrician",
+    "experience": "22 years",
+    "address": {
+      "clinic": "Femina Wellness Clinic",
+      "location": "Cidco",
+      "city": "Aurangabad",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": [],
+    "consultationFee": 900,
+    "rating": 4.9,
+    "patientStories": 2500,
+    "availability": {
+      "today": true,
+      "nextAvailable": "Tonight 9:15 PM"
+    },
+    "contact": "+91 9422212345"
+  },
+  {
+    "id": 70,
+    "name": "Dr. Vikram Singh",
+    "speciality": "Cardiologist",
+    "experience": "25 years",
+    "address": {
+      "clinic": "Mumbai Heart Clinic",
+      "location": "Dadar East",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Breach Candy Hospital", "Jaslok Hospital"],
+    "consultationFee": 4000,
+    "rating": 4.9,
+    "patientStories": 2800,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Wednesday, Aug 6, 10:00 AM"
+    },
+    "contact": "+91 9821011223"
+  },
+  {
+    "id": 71,
+    "name": "Dr. Sneha Mehta",
+    "speciality": "Endocrinologist",
+    "experience": "12 years",
+    "address": {
+      "clinic": "Thane Diabetes & Thyroid Center",
+      "location": "Ghodbunder Road",
+      "city": "Thane",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Jupiter Hospital, Thane"],
+    "consultationFee": 1600,
+    "rating": 4.8,
+    "patientStories": 950,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 5:00 PM"
+    },
+    "contact": "+91 9869012345"
+  },
+  {
+    "id": 72,
+    "name": "Dr. Arjun Pawar",
+    "speciality": "Pulmonologist",
+    "experience": "14 years",
+    "address": {
+      "clinic": "BreatheWell Chest Clinic",
+      "location": "Kothrud",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1300,
+    "rating": 4.6,
+    "patientStories": 1100,
+    "availability": {
+      "today": true,
+      "nextAvailable": "Tonight 9:45 PM"
+    },
+    "contact": "+91 9657055667"
+  },
+  {
+    "id": 73,
+    "name": "Dr. Milind Gadkari",
+    "speciality": "Ophthalmologist",
+    "experience": "19 years",
+    "address": {
+      "clinic": "Nagpur Eye & Retina Centre",
+      "location": "Dharampeth",
+      "city": "Nagpur",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Mahatme Eye Bank Eye Hospital"],
+    "consultationFee": 1000,
+    "rating": 4.7,
+    "patientStories": 1500,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow 11:30 AM"
+    },
+    "contact": "+91 9823011223"
+  },
+  {
+    "id": 74,
+    "name": "Dr. Isha Trivedi",
+    "speciality": "Psychiatrist",
+    "experience": "9 years",
+    "address": {
+      "clinic": "Mind & Mood Clinic",
+      "location": "Powai",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Dr. L H Hiranandani Hospital"],
+    "consultationFee": 2200,
+    "rating": 4.8,
+    "patientStories": 880,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday 4:00 PM"
+    },
+    "contact": "+91 9920187654"
+  },
+  {
+    "id": 75,
+    "name": "Dr. Rahul Gaikwad",
+    "speciality": "General Physician",
+    "experience": "25 years",
+    "address": {
+      "clinic": "Dr. Gaikwad's Family Clinic",
+      "location": "College Road",
+      "city": "Nashik",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Wockhardt Hospitals, Nashik"],
+    "consultationFee": 800,
+    "rating": 4.6,
+    "patientStories": 2900,
+    "availability": {
+      "today": true,
+      "nextAvailable": "Tonight 10:15 PM"
+    },
+    "contact": "+91 9822012345"
+  },
+  {
+    "id": 76,
+    "name": "Dr. Sonali Rane",
+    "speciality": "Urologist",
+    "experience": "13 years",
+    "address": {
+      "clinic": "Pune UroCare",
+      "location": "Baner",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Aundh Institute of Medical Sciences"],
+    "consultationFee": 1700,
+    "rating": 4.7,
+    "patientStories": 920,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 3:30 PM"
+    },
+    "contact": "+91 9890123456"
+  },
+  {
+    "id": 77,
+    "name": "Dr. Alok Sharma",
+    "speciality": "Oncologist",
+    "experience": "24 years",
+    "address": {
+      "clinic": "Mumbai Oncology Center",
+      "location": "Parel",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Tata Memorial Hospital"],
+    "consultationFee": 3800,
+    "rating": 4.9,
+    "patientStories": 1150,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 12:00 PM"
+    },
+    "contact": "+91 9820198765"
+  },
+  {
+    "id": 78,
+    "name": "Dr. Ninad Kale",
+    "speciality": "ENT Specialist",
+    "experience": "11 years",
+    "address": {
+      "clinic": "Kale ENT & Head Neck Clinic",
+      "location": "Osmanpura",
+      "city": "Aurangabad",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": [],
+    "consultationFee": 700,
+    "rating": 4.5,
+    "patientStories": 990,
+    "availability": {
+      "today": true,
+      "nextAvailable": "Tonight 9:30 PM"
+    },
+    "contact": "+91 9422712345"
+  },
+  {
+    "id": 79,
+    "name": "Dr. Manasi Jadhav",
+    "speciality": "Dentist (Prosthodontist)",
+    "experience": "12 years",
+    "address": {
+      "clinic": "Smile Design Studio",
+      "location": "Viman Nagar",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1200,
+    "rating": 4.9,
+    "patientStories": 1300,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow 6:00 PM"
+    },
+    "contact": "+91 9823055667"
+  },
+  {
+    "id": 80,
+    "name": "Dr. Tushar Shah",
+    "speciality": "Nephrologist",
+    "experience": "17 years",
+    "address": {
+      "clinic": "Global Kidney & BP Clinic",
+      "location": "Marine Lines",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Saifee Hospital"],
+    "consultationFee": 2800,
+    "rating": 4.8,
+    "patientStories": 850,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday 11:00 AM"
+    },
+    "contact": "+91 9820345678"
+  },
+  {
+    "id": 81,
+    "name": "Dr. Swati Deshmukh",
+    "speciality": "Rheumatologist",
+    "experience": "10 years",
+    "address": {
+      "clinic": "Pune Arthritis and Rheumatism Clinic",
+      "location": "Hadapsar",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Noble Hospital"],
+    "consultationFee": 1400,
+    "rating": 4.7,
+    "patientStories": 700,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 6:30 PM"
+    },
+    "contact": "+91 9766144556"
+  },
+  {
+    "id": 82,
+    "name": "Dr. Vivek Ingle",
+    "speciality": "General Surgeon",
+    "experience": "30 years",
+    "address": {
+      "clinic": "Dr. Ingle's Surgical Hospital",
+      "location": "Sitabuldi",
+      "city": "Nagpur",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": [],
+    "consultationFee": 900,
+    "rating": 4.5,
+    "patientStories": 2100,
+    "availability": {
+      "today": true,
+      "nextAvailable": "Tonight 9:00 PM"
+    },
+    "contact": "+91 9422812345"
+  },
+  {
+    "id": 83,
+    "name": "Dr. Neha Dave",
+    "speciality": "Dietitian/Nutritionist",
+    "experience": "8 years",
+    "address": {
+      "clinic": "Eat Right Clinic",
+      "location": "Juhu",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1800,
+    "rating": 4.8,
+    "patientStories": 1600,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow 3:00 PM"
+    },
+    "contact": "+91 9820567890"
+  },
+  {
+    "id": 84,
+    "name": "Dr. Pranav More",
+    "speciality": "Plastic Surgeon",
+    "experience": "14 years",
+    "address": {
+      "clinic": "Aesthetics Redefined",
+      "location": "Kalyani Nagar",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Cloudnine Hospital"],
+    "consultationFee": 2500,
+    "rating": 4.9,
+    "patientStories": 650,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 5:00 PM"
+    },
+    "contact": "+91 9881099887"
+  },
+  {
+    "id": 85,
+    "name": "Dr. Jayant Thakur",
+    "speciality": "Hepatologist",
+    "experience": "19 years",
+    "address": {
+      "clinic": "The Liver Clinic",
+      "location": "Vashi",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Apollo Hospitals, Navi Mumbai"],
+    "consultationFee": 2400,
+    "rating": 4.8,
+    "patientStories": 800,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday 1:00 PM"
+    },
+    "contact": "+91 9819512345"
+  },
+  {
+    "id": 86,
+    "name": "Dr. Rina Agarwal",
+    "speciality": "Infertility Specialist",
+    "experience": "16 years",
+    "address": {
+      "clinic": "Blossom IVF Centre",
+      "location": "Naupada",
+      "city": "Thane",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1800,
+    "rating": 4.9,
+    "patientStories": 950,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 12:30 PM"
+    },
+    "contact": "+91 9833011223"
+  },
+  {
+    "id": 87,
+    "name": "Dr. Nitin Pande",
+    "speciality": "Sports Medicine Physician",
+    "experience": "11 years",
+    "address": {
+      "clinic": "Fit to Play - Sports Injury Center",
+      "location": "FC Road",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Sancheti Hospital"],
+    "consultationFee": 1600,
+    "rating": 4.8,
+    "patientStories": 750,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow 7:00 PM"
+    },
+    "contact": "+91 9922412345"
+  },
+  {
+    "id": 88,
+    "name": "Dr. Sagar Deshmukh",
+    "speciality": "Cardiothoracic Surgeon",
+    "experience": "26 years",
+    "address": {
+      "clinic": "Apex Heart Institute",
+      "location": "Dhantoli",
+      "city": "Nagpur",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Wockhardt Heart Hospital, Nagpur"],
+    "consultationFee": 2000,
+    "rating": 4.9,
+    "patientStories": 1050,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 4:00 PM"
+    },
+    "contact": "+91 9422155667"
+  },
+  {
+    "id": 89,
+    "name": "Dr. Geeta Iyer",
+    "speciality": "Ayurvedic Doctor",
+    "experience": "20 years",
+    "address": {
+      "clinic": "Sanjeevani Ayurveda Panchakarma",
+      "location": "Matunga East",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1000,
+    "rating": 4.7,
+    "patientStories": 1900,
+    "availability": {
+      "today": true,
+      "nextAvailable": "Tonight 9:00 PM"
+    },
+    "contact": "+91 9820812345"
+  },
+  {
+    "id": 90,
+    "name": "Dr. Prakash Soni",
+    "speciality": "Sexologist",
+    "experience": "18 years",
+    "address": {
+      "clinic": "Dr. Soni's Confidential Clinic",
+      "location": "Camp",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": [],
+    "consultationFee": 2000,
+    "rating": 4.6,
+    "patientStories": 1350,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday 6:00 PM"
+    },
+    "contact": "+91 9850554321"
+  },
+  {
+    "id": 91,
+    "name": "Dr. Varun Tambe",
+    "speciality": "Vascular Surgeon",
+    "experience": "12 years",
+    "address": {
+      "clinic": "Nashik Vascular & Vein Clinic",
+      "location": "Gangapur Road",
+      "city": "Nashik",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Apollo Hospitals, Nashik"],
+    "consultationFee": 1400,
+    "rating": 4.8,
+    "patientStories": 600,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 11:00 AM"
+    },
+    "contact": "+91 9923012345"
+  },
+  {
+    "id": 92,
+    "name": "Dr. Sunita Bhosle",
+    "speciality": "Homeopath",
+    "experience": "25 years",
+    "address": {
+      "clinic": "Bhosle's Homeopathy Clinic",
+      "location": "Satara Road",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": [],
+    "consultationFee": 800,
+    "rating": 4.7,
+    "patientStories": 2400,
+    "availability": {
+      "today": true,
+      "nextAvailable": "Tonight 9:45 PM"
+    },
+    "contact": "+91 9822512345"
+  },
+  {
+    "id": 93,
+    "name": "Dr. Mohan Agrawal",
+    "speciality": "Bariatric Surgeon",
+    "experience": "17 years",
+    "address": {
+      "clinic": "Mumbai Institute of Bariatrics",
+      "location": "Grant Road",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Wockhardt Hospitals, Mumbai Central"],
+    "consultationFee": 3200,
+    "rating": 4.9,
+    "patientStories": 780,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 6:00 PM"
+    },
+    "contact": "+91 9820987654"
+  },
+  
+  {
+    "id": 94,
+    "name": "Dr. Prakash Murthy",
+    "speciality": "Cardiologist (Interventional)",
+    "experience": "22 years",
+    "address": {
+      "clinic": "Jayadeva Heart Associates",
+      "location": "Jayanagar",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Narayana Health City", "Apollo Hospitals"],
+    "consultationFee": 2500,
+    "rating": 4.9,
+    "patientStories": 3200,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 10:00 AM"
+    },
+    "contact": "+91 9845012345"
+  },
+  {
+    "id": 95,
+    "name": "Dr. Divya Hegde",
+    "speciality": "Dermatologist (Cosmetic)",
+    "experience": "14 years",
+    "address": {
+      "clinic": "Skin & Sculpt Aesthetic Clinic",
+      "location": "Indiranagar",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Manipal Hospital, Old Airport Road"],
+    "consultationFee": 2000,
+    "rating": 4.8,
+    "patientStories": 1900,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday, Aug 2, 11:30 AM"
+    },
+    "contact": "+91 9900154321"
+  },
+  {
+    "id": 96,
+    "name": "Dr. Santosh Reddy",
+    "speciality": "Orthopedic Surgeon (Robotic Joint Replacement)",
+    "experience": "18 years",
+    "address": {
+      "clinic": "Advanced Ortho & Robotic Surgery",
+      "location": "Koramangala",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Fortis Hospital", "Sakra World Hospital"],
+    "consultationFee": 3000,
+    "rating": 4.9,
+    "patientStories": 1500,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 3:00 PM"
+    },
+    "contact": "+91 9886012345"
+  },
+  {
+    "id": 97,
+    "name": "Dr. Ananya Rao",
+    "speciality": "Gynecologist & Infertility Specialist",
+    "experience": "16 years",
+    "address": {
+      "clinic": "Bloom Fertility & Women's Care",
+      "location": "HSR Layout",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Cloudnine Hospital, Jayanagar", "Motherhood Hospital"],
+    "consultationFee": 1800,
+    "rating": 4.8,
+    "patientStories": 2100,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 4:30 PM"
+    },
+    "contact": "+91 9844011223"
+  },
+  {
+    "id": 98,
+    "name": "Dr. Arjun Gowda",
+    "speciality": "Neurosurgeon",
+    "experience": "20 years",
+    "address": {
+      "clinic": "Bengaluru Brain & Spine Center",
+      "location": "Malleshwaram",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Aster CMI Hospital, Hebbal", "M. S. Ramaiah Memorial Hospital"],
+    "consultationFee": 2800,
+    "rating": 4.9,
+    "patientStories": 1350,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 12:00 PM"
+    },
+    "contact": "+91 9880198765"
+  },
+  {
+    "id": 99,
+    "name": "Dr. Priya Desai",
+    "speciality": "Pediatrician",
+    "experience": "12 years",
+    "address": {
+      "clinic": "Happy Kids Clinic",
+      "location": "Whitefield",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Manipal Hospital, Whitefield"],
+    "consultationFee": 1200,
+    "rating": 4.7,
+    "patientStories": 2500,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 6:15 PM"
+    },
+    "contact": "+91 9986012345"
+  },
+  {
+    "id": 100,
+    "name": "Dr. Vikram Kumar",
+    "speciality": "Gastroenterologist",
+    "experience": "15 years",
+    "address": {
+      "clinic": "Garden City Digestive Health Institute",
+      "location": "Sadashivanagar",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Vikram Hospital, Millers Road"],
+    "consultationFee": 2200,
+    "rating": 4.8,
+    "patientStories": 1600,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 11:00 AM"
+    },
+    "contact": "+91 9611154321"
+  },
+  {
+    "id": 101,
+    "name": "Dr. Sneha Shenoy",
+    "speciality": "Endocrinologist",
+    "experience": "11 years",
+    "address": {
+      "clinic": "The Hormone Clinic",
+      "location": "Basavanagudi",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Bangalore Institute of Gastroenterology"],
+    "consultationFee": 1900,
+    "rating": 4.7,
+    "patientStories": 1100,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday, Aug 2, 10:00 AM"
+    },
+    "contact": "+91 9845155667"
+  },
+  {
+    "id": 102,
+    "name": "Dr. Mohan Raj",
+    "speciality": "Oncologist (Surgical)",
+    "experience": "25 years",
+    "address": {
+      "clinic": "Bangalore Cancer Centre",
+      "location": "Electronic City",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Narayana Health City", "HCG Cancer Centre"],
+    "consultationFee": 3500,
+    "rating": 4.9,
+    "patientStories": 980,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Wednesday, Aug 6, 2:30 PM"
+    },
+    "contact": "+91 9845212345"
+  },
+  {
+    "id": 103,
+    "name": "Dr. Karthik S",
+    "speciality": "Pulmonologist",
+    "experience": "13 years",
+    "address": {
+      "clinic": "Advanced Lung & Sleep Clinic",
+      "location": "Marathahalli",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Sakra World Hospital"],
+    "consultationFee": 1700,
+    "rating": 4.6,
+    "patientStories": 1300,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 7:00 PM"
+    },
+    "contact": "+91 9900222334"
+  },
+  {
+    "id": 104,
+    "name": "Dr. Kavitha Prasad",
+    "speciality": "Rheumatologist",
+    "experience": "10 years",
+    "address": {
+      "clinic": "Centre for Arthritis & Rheumatism",
+      "location": "Rajajinagar",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Columbia Asia Referral Hospital, Yeshwanthpur"],
+    "consultationFee": 1800,
+    "rating": 4.8,
+    "patientStories": 850,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday, Aug 2, 3:00 PM"
+    },
+    "contact": "+91 9742144556"
+  },
+  {
+    "id": 105,
+    "name": "Dr. Imran Khan",
+    "speciality": "General Physician",
+    "experience": "20 years",
+    "address": {
+      "clinic": "Dr. Khan's Family Clinic & Diagnostics",
+      "location": "Frazer Town",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1000,
+    "rating": 4.5,
+    "patientStories": 3500,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 8:00 PM"
+    },
+    "contact": "+91 9845398765"
+  },
+  {
+    "id": 106,
+    "name": "Dr. Anupama Iyengar",
+    "speciality": "Ophthalmologist",
+    "experience": "18 years",
+    "address": {
+      "clinic": "Narayana Nethralaya",
+      "location": "Rajajinagar",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Prabha Eye Clinic"],
+    "consultationFee": 1500,
+    "rating": 4.9,
+    "patientStories": 2800,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 9:30 AM"
+    },
+    "contact": "+91 9886211223"
+  },
+  {
+    "id": 107,
+    "name": "Dr. Sameer Ahmed",
+    "speciality": "Urologist",
+    "experience": "17 years",
+    "address": {
+      "clinic": "Bangalore Kidney Stone & Urology Clinic",
+      "location": "J P Nagar",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Apollo Hospitals, Jayanagar"],
+    "consultationFee": 2000,
+    "rating": 4.7,
+    "patientStories": 1450,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 5:00 PM"
+    },
+    "contact": "+91 9900312345"
+  },
+  {
+    "id": 108,
+    "name": "Dr. Deepa Nair",
+    "speciality": "Psychiatrist",
+    "experience": "14 years",
+    "address": {
+      "clinic": "Mind.Fit Wellness Centre",
+      "location": "Koramangala",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["NIMHANS (Visiting Consultant)"],
+    "consultationFee": 2200,
+    "rating": 4.8,
+    "patientStories": 1200,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 3:00 PM"
+    },
+    "contact": "+91 9886487654"
+  },
+  {
+    "id": 109,
+    "name": "Dr. Naveen B R",
+    "speciality": "ENT Specialist",
+    "experience": "15 years",
+    "address": {
+      "clinic": "Dr. Naveen's ENT & Hearing Aid Centre",
+      "location": "Vijayanagar",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1100,
+    "rating": 4.6,
+    "patientStories": 1700,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 7:30 PM"
+    },
+    "contact": "+91 9731054321"
+  },
+  {
+    "id": 110,
+    "name": "Dr. Sunita Sharma",
+    "speciality": "Dietitian/Nutritionist",
+    "experience": "10 years",
+    "address": {
+      "clinic": "NutriLife - Health & Wellness Clinic",
+      "location": "Indiranagar",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1500,
+    "rating": 4.7,
+    "patientStories": 1850,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday, Aug 2, 12:00 PM"
+    },
+    "contact": "+91 9980112345"
+  },
+  {
+    "id": 111,
+    "name": "Dr. Rajesh Balakrishnan",
+    "speciality": "Nephrologist",
+    "experience": "19 years",
+    "address": {
+      "clinic": "Institute of Nephro Urology",
+      "location": "Victoria Hospital Campus",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Manipal Hospital, Old Airport Road"],
+    "consultationFee": 2400,
+    "rating": 4.8,
+    "patientStories": 950,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Wednesday, Aug 6, 11:30 AM"
+    },
+    "contact": "+91 9845412345"
+  },
+  {
+    "id": 112,
+    "name": "Dr. Vinay Patil",
+    "speciality": "Dentist (Oral & Maxillofacial Surgeon)",
+    "experience": "16 years",
+    "address": {
+      "clinic": "Bangalore Dental Solutions & Implant Center",
+      "location": "Koramangala",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Apollo White Dental"],
+    "consultationFee": 1300,
+    "rating": 4.9,
+    "patientStories": 1600,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 5:00 PM"
+    },
+    "contact": "+91 9886555667"
+  },
+  {
+    "id": 113,
+    "name": "Dr. Meera Krishnan",
+    "speciality": "Fetal Medicine Specialist",
+    "experience": "12 years",
+    "address": {
+      "clinic": "Bangalore Fetal Medicine Centre (BFMC)",
+      "location": "Jayanagar",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Cloudnine Hospital, Old Airport Road"],
+    "consultationFee": 2500,
+    "rating": 4.9,
+    "patientStories": 800,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 4:00 PM"
+    },
+    "contact": "+91 9845567890"
+  },
+  {
+    "id": 114,
+    "name": "Dr. Ashok Shetty",
+    "speciality": "General Surgeon (Laparoscopic)",
+    "experience": "28 years",
+    "address": {
+      "clinic": "Shetty's Surgical & Laparoscopy Clinic",
+      "location": "BTM Layout",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1400,
+    "rating": 4.7,
+    "patientStories": 1950,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 8:30 PM"
+    },
+    "contact": "+91 9845612345"
+  },
+  {
+    "id": 115,
+    "name": "Dr. Ritu Singh",
+    "speciality": "Plastic Surgeon (Aesthetic & Reconstructive)",
+    "experience": "15 years",
+    "address": {
+      "clinic": "La Belle Plastic Surgery Clinic",
+      "location": "Sadashivanagar",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Fortis La Femme, Richmond Road"],
+    "consultationFee": 3200,
+    "rating": 4.8,
+    "patientStories": 700,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 6:00 PM"
+    },
+    "contact": "+91 9900499887"
+  },
+  {
+    "id": 116,
+    "name": "Dr. Praveen G",
+    "speciality": "Hepatologist",
+    "experience": "17 years",
+    "address": {
+      "clinic": "The Liver & Pancreas Clinic",
+      "location": "Hebbal",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Aster CMI Hospital, Hebbal"],
+    "consultationFee": 2300,
+    "rating": 4.8,
+    "patientStories": 880,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday, Aug 2, 4:30 PM"
+    },
+    "contact": "+91 9741112345"
+  },
+  {
+    "id": 117,
+    "name": "Dr. Harish Kumar",
+    "speciality": "Sports Medicine Physician",
+    "experience": "10 years",
+    "address": {
+      "clinic": "Sports & Performance Clinic",
+      "location": "Kanteerava Stadium",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Hosmat Hospital"],
+    "consultationFee": 1800,
+    "rating": 4.7,
+    "patientStories": 950,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 6:00 PM"
+    },
+    "contact": "+91 9900512345"
+  },
+  {
+    "id": 118,
+    "name": "Dr. Shweta Kulkarni",
+    "speciality": "Ayurvedic Doctor",
+    "experience": "18 years",
+    "address": {
+      "clinic": "Atreya Ayurveda",
+      "location": "Jayanagar",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": [],
+    "consultationFee": 900,
+    "rating": 4.8,
+    "patientStories": 2200,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 11:00 AM"
+    },
+    "contact": "+91 9845712345"
+  },
+  {
+    "id": 119,
+    "name": "Dr. Alok Jain",
+    "speciality": "Allergist & Immunologist",
+    "experience": "13 years",
+    "address": {
+      "clinic": "Bangalore Allergy & Asthma Centre",
+      "location": "Domlur",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Manipal Hospital, Old Airport Road"],
+    "consultationFee": 1600,
+    "rating": 4.7,
+    "patientStories": 1050,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 5:30 PM"
+    },
+    "contact": "+91 9886654321"
+  },
+  {
+    "id": 120,
+    "name": "Dr. Raghavendra M S",
+    "speciality": "Cardiothoracic Surgeon",
+    "experience": "24 years",
+    "address": {
+      "clinic": "Fortis Hospital, Cunningham Road",
+      "location": "Vasanth Nagar",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Sri Sathya Sai Institute of Higher Medical Sciences"],
+    "consultationFee": 3800,
+    "rating": 4.9,
+    "patientStories": 1150,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Wednesday, Aug 6, 4:00 PM"
+    },
+    "contact": "+91 9845855667"
+  },
+  {
+    "id": 121,
+    "name": "Dr. Anita George",
+    "speciality": "Homeopath",
+    "experience": "22 years",
+    "address": {
+      "clinic": "Positive Homeopathy",
+      "location": "MG Road",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1000,
+    "rating": 4.6,
+    "patientStories": 2600,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 12:00 PM"
+    },
+    "contact": "+91 9845912345"
+  },
+  {
+    "id": 122,
+    "name": "Dr. Sanjay Pai",
+    "speciality": "Pediatric Neurologist",
+    "experience": "16 years",
+    "address": {
+      "clinic": "Manipal Hospitals, Old Airport Road",
+      "location": "HAL Airport Road",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Indira Gandhi Institute of Child Health"],
+    "consultationFee": 2300,
+    "rating": 4.9,
+    "patientStories": 900,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 1:00 PM"
+    },
+    "contact": "+91 9900654321"
+  },
+  {
+    "id": 123,
+    "name": "Dr. Prema Subramanian",
+    "speciality": "Clinical Geneticist",
+    "experience": "15 years",
+    "address": {
+      "clinic": "Centre for Human Genetics",
+      "location": "Electronic City",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": [],
+    "consultationFee": 2800,
+    "rating": 4.9,
+    "patientStories": 450,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Friday, Aug 8, 11:00 AM"
+    },
+    "contact": "+91 9886712345"
+  },
+  {
+    "id": 124,
+    "name": "Dr. Rohit Verma",
+    "speciality": "Sleep Medicine Specialist",
+    "experience": "12 years",
+    "address": {
+      "clinic": "Bengaluru Sleep Centre",
+      "location": "HSR Layout",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Narayana Health City"],
+    "consultationFee": 2000,
+    "rating": 4.8,
+    "patientStories": 750,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 8:00 PM"
+    },
+    "contact": "+91 9900712345"
+  },
+  {
+    "id": 125,
+    "name": "Dr. Chetan Kumar N",
+    "speciality": "Vascular Surgeon",
+    "experience": "14 years",
+    "address": {
+      "clinic": "Vascular & Endovascular Clinic",
+      "location": "Jayanagar",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Sagar Hospitals"],
+    "consultationFee": 2100,
+    "rating": 4.7,
+    "patientStories": 820,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday, Aug 2, 5:00 PM"
+    },
+    "contact": "+91 9845099887"
+  },
+  {
+    "id": 126,
+    "name": "Dr. Nandini Venkatesh",
+    "speciality": "Geriatrician",
+    "experience": "19 years",
+    "address": {
+      "clinic": "Elder Care Clinic",
+      "location": "Malleshwaram",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["M. S. Ramaiah Memorial Hospital"],
+    "consultationFee": 1500,
+    "rating": 4.8,
+    "patientStories": 1100,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 3:00 PM"
+    },
+    "contact": "+91 9845198765"
+  },
+  {
+    "id": 127,
+    "name": "Dr. Sandeep K",
+    "speciality": "Nuclear Medicine Physician",
+    "experience": "13 years",
+    "address": {
+      "clinic": "HCG Cancer Centre",
+      "location": "Sampangiram Nagar",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Kidwai Memorial Institute of Oncology"],
+    "consultationFee": 2600,
+    "rating": 4.9,
+    "patientStories": 550,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 10:00 AM"
+    },
+    "contact": "+91 9900812345"
+  },
+  {
+    "id": 128,
+    "name": "Dr. Bhaskar N",
+    "speciality": "Bariatric Surgeon",
+    "experience": "16 years",
+    "address": {
+      "clinic": "Apollo Spectra Hospitals",
+      "location": "Koramangala",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "additionalClinics": ["Fortis Hospital, Nagarbhavi"],
+    "consultationFee": 3000,
+    "rating": 4.8,
+    "patientStories": 680,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Wednesday, Aug 6, 6:00 PM"
+    },
+    "contact": "+91 9886887654"
+  },
+  
+  {
+    "id": 129,
+    "name": "Dr. Ramakrishnan Iyer",
+    "speciality": "Cardiothoracic Surgeon",
+    "experience": "28 years",
+    "address": {
+      "clinic": "Apollo Heart Institute",
+      "location": "Greams Road",
+      "city": "Chennai",
+      "state": "Tamil Nadu"
+    },
+    "additionalClinics": ["Fortis Malar Hospital", "MIOT International"],
+    "consultationFee": 3500,
+    "rating": 4.9,
+    "patientStories": 2500,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 11:00 AM"
+    },
+    "contact": "+91 9840012345"
+  },
+  {
+    "id": 130,
+    "name": "Dr. N. Venkat Reddy",
+    "speciality": "Gastroenterologist (Hepatologist)",
+    "experience": "20 years",
+    "address": {
+      "clinic": "AIG Hospitals",
+      "location": "Gachibowli",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "additionalClinics": ["Yashoda Hospitals, Somajiguda", "Continental Hospitals"],
+    "consultationFee": 3000,
+    "rating": 4.9,
+    "patientStories": 1800,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 2:00 PM"
+    },
+    "contact": "+91 9848012345"
+  },
+  {
+    "id": 131,
+    "name": "Dr. Jignesh Shah",
+    "speciality": "Orthopedic Surgeon",
+    "experience": "22 years",
+    "address": {
+      "clinic": "Shalby Hospitals - Joint Replacement Center",
+      "location": "Satellite",
+      "city": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    "additionalClinics": ["CIMS Hospital", "Zydus Hospitals"],
+    "consultationFee": 2200,
+    "rating": 4.8,
+    "patientStories": 2900,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday, Aug 2, 10:30 AM"
+    },
+    "contact": "+91 9825012345"
+  },
+  {
+    "id": 132,
+    "name": "Dr. Lakshmi Priya",
+    "speciality": "Dermatologist",
+    "experience": "15 years",
+    "address": {
+      "clinic": " Oliva Skin & Hair Clinic",
+      "location": "Anna Nagar",
+      "city": "Chennai",
+      "state": "Tamil Nadu"
+    },
+    "additionalClinics": ["Kauvery Hospital"],
+    "consultationFee": 1500,
+    "rating": 4.8,
+    "patientStories": 2200,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 5:00 PM"
+    },
+    "contact": "+91 9841054321"
+  },
+  {
+    "id": 133,
+    "name": "Dr. Anand Rao",
+    "speciality": "Neurologist",
+    "experience": "18 years",
+    "address": {
+      "clinic": "KIMS Hospitals",
+      "location": "Secunderabad",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "additionalClinics": ["Sunshine Hospitals"],
+    "consultationFee": 2400,
+    "rating": 4.7,
+    "patientStories": 1650,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 3:00 PM"
+    },
+    "contact": "+91 9849098765"
+  },
+  {
+    "id": 134,
+    "name": "Dr. Neha Patel",
+    "speciality": "Gynecologist & Obstetrician",
+    "experience": "17 years",
+    "address": {
+      "clinic": "Blossom Women's Hospital",
+      "location": "Navrangpura",
+      "city": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    "additionalClinics": ["Sterling Hospitals"],
+    "consultationFee": 1400,
+    "rating": 4.9,
+    "patientStories": 2600,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 6:30 PM"
+    },
+    "contact": "+91 9925011223"
+  },
+  {
+    "id": 135,
+    "name": "Dr. K. Senthil Kumar",
+    "speciality": "Pediatrician",
+    "experience": "20 years",
+    "address": {
+      "clinic": "Kanchi Kamakoti CHILDS Trust Hospital",
+      "location": "Nungambakkam",
+      "city": "Chennai",
+      "state": "Tamil Nadu"
+    },
+    "additionalClinics": ["Rainbow Children's Hospital"],
+    "consultationFee": 1300,
+    "rating": 4.9,
+    "patientStories": 3100,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 4:00 PM"
+    },
+    "contact": "+91 9840112345"
+  },
+  {
+    "id": 136,
+    "name": "Dr. Suresh Varma",
+    "speciality": "ENT Specialist",
+    "experience": "25 years",
+    "address": {
+      "clinic": "Dr. Varma's ENT Care",
+      "location": "Banjara Hills",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "additionalClinics": ["Apollo Hospitals, Jubilee Hills"],
+    "consultationFee": 1800,
+    "rating": 4.7,
+    "patientStories": 2300,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday, Aug 2, 12:00 PM"
+    },
+    "contact": "+91 9866054321"
+  },
+  {
+    "id": 137,
+    "name": "Dr. Mitesh Desai",
+    "speciality": "Pulmonologist",
+    "experience": "16 years",
+    "address": {
+      "clinic": "Surat Chest & Allergy Clinic",
+      "location": "Adajan",
+      "city": "Surat",
+      "state": "Gujarat"
+    },
+    "additionalClinics": ["Wockhardt Hospitals, Surat"],
+    "consultationFee": 1200,
+    "rating": 4.6,
+    "patientStories": 1400,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 6:00 PM"
+    },
+    "contact": "+91 9825122334"
+  },
+  {
+    "id": 138,
+    "name": "Dr. Aruna Viswanathan",
+    "speciality": "Ophthalmologist",
+    "experience": "30 years",
+    "address": {
+      "clinic": "Sankara Nethralaya",
+      "location": "College Road, Nungambakkam",
+      "city": "Chennai",
+      "state": "Tamil Nadu"
+    },
+    "additionalClinics": ["Dr. Agarwal's Eye Hospital"],
+    "consultationFee": 1600,
+    "rating": 4.9,
+    "patientStories": 4200,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 9:30 AM"
+    },
+    "contact": "+91 9840211223"
+  },
+  {
+    "id": 139,
+    "name": "Dr. Pavan Kumar G",
+    "speciality": "Urologist (Robotic)",
+    "experience": "17 years",
+    "address": {
+      "clinic": "Hyderabad Kidney & Laparoscopic Centre",
+      "location": "Hitec City",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "additionalClinics": ["Apollo Hospitals, Jubilee Hills"],
+    "consultationFee": 2500,
+    "rating": 4.8,
+    "patientStories": 1300,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Wednesday, Aug 6, 3:30 PM"
+    },
+    "contact": "+91 9848155667"
+  },
+  {
+    "id": 140,
+    "name": "Dr. Rina Mehta",
+    "speciality": "Dietitian/Nutritionist",
+    "experience": "12 years",
+    "address": {
+      "clinic": "NutriHealth Clinic",
+      "location": "Bodakdev",
+      "city": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1300,
+    "rating": 4.7,
+    "patientStories": 1750,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 2:00 PM"
+    },
+    "contact": "+91 9925187654"
+  },
+  {
+    "id": 141,
+    "name": "Dr. C. Palanivelu",
+    "speciality": "Surgical Gastroenterologist (Laparoscopic)",
+    "experience": "35 years",
+    "address": {
+      "clinic": "GEM Hospital & Research Centre",
+      "location": "Ramanathapuram",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu"
+    },
+    "additionalClinics": [],
+    "consultationFee": 2800,
+    "rating": 4.9,
+    "patientStories": 3500,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 11, 10:00 AM"
+    },
+    "contact": "+91 9842212345"
+  },
+  {
+    "id": 142,
+    "name": "Dr. Sandeep Gupta",
+    "speciality": "Oncologist (Medical)",
+    "experience": "19 years",
+    "address": {
+      "clinic": "American Oncology Institute",
+      "location": "Nallagandla",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "additionalClinics": ["Basavatarakam Indo American Cancer Hospital"],
+    "consultationFee": 2800,
+    "rating": 4.8,
+    "patientStories": 1100,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 4:00 PM"
+    },
+    "contact": "+91 9866198765"
+  },
+  {
+    "id": 143,
+    "name": "Dr. Tejal Patel",
+    "speciality": "Infertility Specialist",
+    "experience": "18 years",
+    "address": {
+      "clinic": "Nova IVF Fertility",
+      "location": "Vesu",
+      "city": "Surat",
+      "state": "Gujarat"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1600,
+    "rating": 4.8,
+    "patientStories": 1250,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday, Aug 2, 11:00 AM"
+    },
+    "contact": "+91 9925211223"
+  },
+  {
+    "id": 144,
+    "name": "Dr. G. Balakrishnan",
+    "speciality": "Psychiatrist",
+    "experience": "24 years",
+    "address": {
+      "clinic": "The Banyan",
+      "location": "Adyar",
+      "city": "Chennai",
+      "state": "Tamil Nadu"
+    },
+    "additionalClinics": ["Institute of Mental Health"],
+    "consultationFee": 1400,
+    "rating": 4.7,
+    "patientStories": 1900,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 7:00 PM"
+    },
+    "contact": "+91 9840398765"
+  },
+  {
+    "id": 145,
+    "name": "Dr. Manjula Anagani",
+    "speciality": "Gynecologist (Laparoscopic Surgeon)",
+    "experience": "26 years",
+    "address": {
+      "clinic": "Yashoda Hospitals",
+      "location": "Malakpet",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "additionalClinics": ["Care Hospitals"],
+    "consultationFee": 2000,
+    "rating": 4.9,
+    "patientStories": 2800,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 1:00 PM"
+    },
+    "contact": "+91 9848212345"
+  },
+  {
+    "id": 146,
+    "name": "Dr. Hemant Trivedi",
+    "speciality": "Endocrinologist",
+    "experience": "15 years",
+    "address": {
+      "clinic": "Gujarat Endocrine Centre",
+      "location": "Maninagar",
+      "city": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1700,
+    "rating": 4.7,
+    "patientStories": 950,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday, Aug 2, 4:00 PM"
+    },
+    "contact": "+91 9825355667"
+  },
+  {
+    "id": 147,
+    "name": "Dr. J.S. Rajkumar",
+    "speciality": "General Surgeon (Minimal Access)",
+    "experience": "32 years",
+    "address": {
+      "clinic": "Lifeline Hospitals",
+      "location": "Kilpauk",
+      "city": "Chennai",
+      "state": "Tamil Nadu"
+    },
+    "additionalClinics": [],
+    "consultationFee": 2000,
+    "rating": 4.8,
+    "patientStories": 2400,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 12:30 PM"
+    },
+    "contact": "+91 9840412345"
+  },
+  {
+    "id": 148,
+    "name": "Dr. Subodh Raju",
+    "speciality": "Sports Medicine Surgeon",
+    "experience": "14 years",
+    "address": {
+      "clinic": "SISA - Srikara Institute of Sports & Arthroscopy",
+      "location": "Secunderabad",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "additionalClinics": [],
+    "consultationFee": 2200,
+    "rating": 4.8,
+    "patientStories": 1150,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 4:30 PM"
+    },
+    "contact": "+91 9848354321"
+  },
+  {
+    "id": 149,
+    "name": "Dr. Keyur Parikh",
+    "speciality": "Cardiologist (Interventional)",
+    "experience": "30 years",
+    "address": {
+      "clinic": "CIMS Hospital",
+      "location": "Science City Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    "additionalClinics": ["Sal Hospital"],
+    "consultationFee": 2800,
+    "rating": 4.9,
+    "patientStories": 3300,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Wednesday, Aug 6, 10:30 AM"
+    },
+    "contact": "+91 9825411223"
+  },
+  {
+    "id": 150,
+    "name": "Dr. Thangam",
+    "speciality": "Rheumatologist",
+    "experience": "18 years",
+    "address": {
+      "clinic": "Thangam's Arthritis Speciality Center",
+      "location": "RS Puram",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu"
+    },
+    "additionalClinics": ["Kovai Medical Center and Hospital (KMCH)"],
+    "consultationFee": 1400,
+    "rating": 4.8,
+    "patientStories": 1350,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Saturday, Aug 2, 5:00 PM"
+    },
+    "contact": "+91 9842144556"
+  },
+  {
+    "id": 151,
+    "name": "Dr. Sita Ram",
+    "speciality": "Ayurvedic Doctor",
+    "experience": "25 years",
+    "address": {
+      "clinic": "Deccan Ayurveda Clinic",
+      "location": "Kukatpally",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "additionalClinics": [],
+    "consultationFee": 800,
+    "rating": 4.7,
+    "patientStories": 2100,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 11:00 AM"
+    },
+    "contact": "+91 9848412345"
+  },
+  {
+    "id": 152,
+    "name": "Dr. Parag Shah",
+    "speciality": "Pediatric Hematologist-Oncologist",
+    "experience": "16 years",
+    "address": {
+      "clinic": "The Gujarat Cancer and Research Institute (GCRI)",
+      "location": "Asarwa",
+      "city": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    "additionalClinics": [],
+    "consultationFee": 2000,
+    "rating": 4.9,
+    "patientStories": 800,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 1:30 PM"
+    },
+    "contact": "+91 9825512345"
+  },
+  {
+    "id": 153,
+    "name": "Dr. Mohan Kameswaran",
+    "speciality": "ENT Surgeon (Cochlear Implants)",
+    "experience": "38 years",
+    "address": {
+      "clinic": "Madras ENT Research Foundation (MERF)",
+      "location": "Raja Annamalai Puram",
+      "city": "Chennai",
+      "state": "Tamil Nadu"
+    },
+    "additionalClinics": [],
+    "consultationFee": 2500,
+    "rating": 4.9,
+    "patientStories": 2950,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Friday, Aug 8, 11:30 AM"
+    },
+    "contact": "+91 9840598765"
+  },
+  {
+    "id": 154,
+    "name": "Dr. Rooma Sinha",
+    "speciality": "Gynecologist (Robotic Surgeon)",
+    "experience": "25 years",
+    "address": {
+      "clinic": "Apollo Health City",
+      "location": "Jubilee Hills",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "additionalClinics": [],
+    "consultationFee": 2800,
+    "rating": 4.9,
+    "patientStories": 1700,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Wednesday, Aug 6, 5:00 PM"
+    },
+    "contact": "+91 9848512345"
+  },
+  {
+    "id": 155,
+    "name": "Dr. K. G. Ramakrishnan",
+    "speciality": "Nuclear Medicine Physician",
+    "experience": "22 years",
+    "address": {
+      "clinic": "PSG Hospitals",
+      "location": "Peelamedu",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1800,
+    "rating": 4.8,
+    "patientStories": 700,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 2:00 PM"
+    },
+    "contact": "+91 9842387654"
+  },
+  {
+    "id": 156,
+    "name": "Dr. Atul Shah",
+    "speciality": "Plastic Surgeon",
+    "experience": "28 years",
+    "address": {
+      "clinic": "The Institute of Plastic & Reconstructive Surgery",
+      "location": "Ghodasar",
+      "city": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    "additionalClinics": ["Bodyline Hospital"],
+    "consultationFee": 2400,
+    "rating": 4.8,
+    "patientStories": 950,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 6:30 PM"
+    },
+    "contact": "+91 9825612345"
+  },
+  {
+    "id": 157,
+    "name": "Dr. Prateep V. Philip",
+    "speciality": "General Physician",
+    "experience": "28 years",
+    "address": {
+      "clinic": "Dr. Philip's Clinic",
+      "location": "T. Nagar",
+      "city": "Chennai",
+      "state": "Tamil Nadu"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1200,
+    "rating": 4.6,
+    "patientStories": 4500,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 8:00 PM"
+    },
+    "contact": "+91 9840612345"
+  },
+  {
+    "id": 158,
+    "name": "Dr. Bipin S. Patel",
+    "speciality": "Nephrologist",
+    "experience": "26 years",
+    "address": {
+      "clinic": "IKDRC - Institute of Kidney Diseases and Research Centre",
+      "location": "Civil Hospital Campus, Asarwa",
+      "city": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1800,
+    "rating": 4.9,
+    "patientStories": 2100,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday, Aug 4, 10:00 AM"
+    },
+    "contact": "+91 9825712345"
+  },
+  {
+    "id": 159,
+    "name": "Dr. Vijay K. Reddy",
+    "speciality": "Dentist (Implantologist)",
+    "experience": "20 years",
+    "address": {
+      "clinic": "FMS Dental Hospitals",
+      "location": "Jubilee Hills",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "additionalClinics": [],
+    "consultationFee": 1500,
+    "rating": 4.8,
+    "patientStories": 1900,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 3:30 PM"
+    },
+    "contact": "+91 9848612345"
+  },
+  {
+    "id": 160,
+    "name": "Dr. Chetan Bhatt",
+    "speciality": "Homeopath",
+    "experience": "30 years",
+    "address": {
+      "clinic": "Dr. Bhatt's Homeopathy Wellness Center",
+      "location": "Alkapuri",
+      "city": "Vadodara",
+      "state": "Gujarat"
+    },
+    "additionalClinics": [],
+    "consultationFee": 800,
+    "rating": 4.7,
+    "patientStories": 3000,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow, Aug 1, 12:30 PM"
+    },
+    "contact": "+91 9825812345"
+  },
+  {
+    "id": 161,
+    "name": "Dr. A. G. K. Gokhale",
+    "speciality": "Cardiothoracic Surgeon (Heart & Lung Transplant)",
+    "experience": "32 years",
+    "address": {
+      "clinic": "Apollo Hospitals",
+      "location": "Jubilee Hills",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "additionalClinics": [],
+    "consultationFee": 4000,
+    "rating": 4.9,
+    "patientStories": 1500,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Friday, Aug 8, 3:00 PM"
+    },
+    "contact": "+91 9848712345"
+  },
+  {
+    "id": 162,
+    "name": "Dr. T. Raja",
+    "speciality": "Pediatric Oncologist",
+    "experience": "25 years",
+    "address": {
+      "clinic": "Apollo Cancer Centre",
+      "location": "Teynampet",
+      "city": "Chennai",
+      "state": "Tamil Nadu"
+    },
+    "additionalClinics": ["Adyar Cancer Institute"],
+    "consultationFee": 2600,
+    "rating": 4.9,
+    "patientStories": 900,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Wednesday, Aug 6, 1:00 PM"
+    },
+    "contact": "+91 9840712345"
+  },
+  {
+    "id": 163,
+    "name": "Dr. Rakesh Suri",
+    "speciality": "Bariatric Surgeon",
+    "experience": "18 years",
+    "address": {
+      "clinic": "Sunshine Hospitals",
+      "location": "Gachibowli",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "additionalClinics": [],
+    "consultationFee": 2700,
+    "rating": 4.8,
+    "patientStories": 850,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday, Aug 5, 7:00 PM"
+    },
+    "contact": "+91 9848812345"
   }
+
+
 
 ]
