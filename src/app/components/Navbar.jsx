@@ -37,18 +37,12 @@ const Navbar = () => {
           {/* Left side - Logo and main links */}
           <div className='flex items-center space-x-4 md:space-x-8'>
             {/* Logo */}
-            <div className="flex-shrink-0">
-              <Link href="/">
-                <Image 
-                  src="/logo.png" 
-                  alt="logo" 
-                  width={120} 
-                  height={40} 
-                  className="h-10 w-auto"
-                />
-              </Link>
+           <div className="flex items-center">
+            <div className="text-2xl font-bold text-blue-600">
+              <span className="bg-blue-600 text-white px-2 py-1 rounded-md mr-1">p</span>
+              racto
             </div>
-            
+          </div>
             {/* Main navigation links - hidden on mobile, shown on md+ */}
             <div className="hidden md:flex space-x-6">
               <Link 
