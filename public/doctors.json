@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Rajiv Malhotra",
+    "speciality": "Cardiologist",
+    "experience": "15 years",
+    "address": {
+      "clinic": "HeartCare Delhi",
+      "location": "A-12, Greater Kailash Part 1",
+      "city": "New Delhi",
+      "state": "Delhi"
+    },
+    "additionalClinics": ["Max Super Specialty Hospital, Saket"],
+    "consultationFee": 2000,
+    "rating": 4.7,
+    "patientStories": 1245,
+    "availability": {
+      "today": true,
+      "timings": "10:00 AM - 5:00 PM"
+    },
+    "contact": "+91 98765 43210"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Priya Sharma",
+    "speciality": "Dermatologist",
+    "experience": "8 years",
+    "address": {
+      "clinic": "SkinNova Clinic",
+      "location": "Shop 15, South Extension Part 2",
+      "city": "New Delhi",
+      "state": "Delhi"
+    },
+    "additionalClinics": null,
+    "consultationFee": 1500,
+    "rating": 4.5,
+    "patientStories": 876,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow 11:00 AM"
+    },
+    "contact": "+91 98765 12340"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Amit Khanna",
+    "speciality": "Orthopedic Surgeon",
+    "experience": "12 years",
+    "address": {
+      "clinic": "Bone & Joint Center",
+      "location": "E-42, Defence Colony",
+      "city": "New Delhi",
+      "state": "Delhi"
+    },
+    "additionalClinics": ["Fortis Hospital, Vasant Kunj"],
+    "consultationFee": 1800,
+    "rating": 4.6,
+    "patientStories": 1560,
+    "availability": {
+      "today": true,
+      "timings": "9:00 AM - 3:00 PM"
+    },
+    "contact": "+91 98765 56789"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Ananya Reddy",
+    "speciality": "Pediatrician",
+    "experience": "10 years",
+    "address": {
+      "clinic": "LittleStars Clinic",
+      "location": "B-5, Safdarjung Enclave",
+      "city": "New Delhi",
+      "state": "Delhi"
+    },
+    "additionalClinics": ["Apollo Cradle, Nehru Place"],
+    "consultationFee": 1200,
+    "rating": 4.8,
+    "patientStories": 2100,
+    "availability": {
+      "today": true,
+      "timings": "8:00 AM - 6:00 PM"
+    },
+    "contact": "+91 98765 43211"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Vikram Joshi",
+    "speciality": "ENT Specialist",
+    "experience": "14 years",
+    "address": {
+      "clinic": "EarNoseThroat Care",
+      "location": "H-12, Green Park Main Market",
+      "city": "New Delhi",
+      "state": "Delhi"
+    },
+    "additionalClinics": null,
+    "consultationFee": 1600,
+    "rating": 4.4,
+    "patientStories": 980,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Wednesday 2:00 PM"
+    },
+    "contact": "+91 98765 67890"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Neha Gupta",
+    "speciality": "Gynecologist",
+    "experience": "9 years",
+    "address": {
+      "clinic": "Women's Wellness Center",
+      "location": "C-8, Vasant Vihar",
+      "city": "New Delhi",
+      "state": "Delhi"
+    },
+    "additionalClinics": ["Sitaram Bhartia Hospital, Qutab Institutional Area"],
+    "consultationFee": 1700,
+    "rating": 4.9,
+    "patientStories": 1870,
+    "availability": {
+      "today": true,
+      "timings": "10:30 AM - 4:30 PM"
+    },
+    "contact": "+91 98765 54321"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Arjun Kapoor",
+    "speciality": "Neurologist",
+    "experience": "18 years",
+    "address": {
+      "clinic": "NeuroCare Specialists",
+      "location": "D-12, Hauz Khas",
+      "city": "New Delhi",
+      "state": "Delhi"
+    },
+    "additionalClinics": ["Indraprastha Apollo Hospital, Sarita Vihar"],
+    "consultationFee": 2500,
+    "rating": 4.7,
+    "patientStories": 2100,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Friday 11:30 AM"
+    },
+    "contact": "+91 98765 09876"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Sunita Mehta",
+    "speciality": "Dentist",
+    "experience": "7 years",
+    "address": {
+      "clinic": "Pearl White Dental Clinic",
+      "location": "F-34, Rajouri Garden",
+      "city": "New Delhi",
+      "state": "Delhi"
+    },
+    "additionalClinics": null,
+    "consultationFee": 800,
+    "rating": 4.3,
+    "patientStories": 540,
+    "availability": {
+      "today": true,
+      "timings": "9:30 AM - 7:00 PM"
+    },
+    "contact": "+91 98765 11223"
+  }
+,
+  {
+    "id": 9,
+    "name": "Dr. Rohan Patil",
+    "speciality": "Gastroenterologist",
+    "experience": "16 years",
+    "address": {
+      "clinic": "Mumbai GI Clinic",
+      "location": "101, Bandra West",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Lilavati Hospital and Research Centre"],
+    "consultationFee": 2200,
+    "rating": 4.8,
+    "patientStories": 1800,
+    "availability": {
+      "today": true,
+      "timings": "11:00 AM - 6:00 PM"
+    },
+    "contact": "+91 98200 98200"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Aisha Deshpande",
+    "speciality": "Oncologist",
+    "experience": "20 years",
+    "address": {
+      "clinic": "Pune Cancer Care",
+      "location": "S-5, Koregaon Park",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": null,
+    "consultationFee": 3000,
+    "rating": 4.9,
+    "patientStories": 2500,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow 10:00 AM"
+    },
+    "contact": "+91 98230 98230"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Siddharth Kulkarni",
+    "speciality": "Pulmonologist",
+    "experience": "11 years",
+    "address": {
+      "clinic": "Breathing Easy Clinic",
+      "location": "3rd Floor, Juhu Tara Road",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Breach Candy Hospital"],
+    "consultationFee": 1900,
+    "rating": 4.6,
+    "patientStories": 1150,
+    "availability": {
+      "today": true,
+      "timings": "9:00 AM - 1:00 PM"
+    },
+    "contact": "+91 98190 98190"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Meera Joshi",
+    "speciality": "Pediatrician",
+    "experience": "12 years",
+    "address": {
+      "clinic": "Child Health Pune",
+      "location": "Shop 22, FC Road",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Jehangir Hospital"],
+    "consultationFee": 1300,
+    "rating": 4.8,
+    "patientStories": 1950,
+    "availability": {
+      "today": true,
+      "timings": "10:00 AM - 7:00 PM"
+    },
+    "contact": "+91 98220 98220"
+  },
+  {
+    "id": 13,
+    "name": "Dr. Aditi Rao",
+    "speciality": "Dermatologist",
+    "experience": "9 years",
+    "address": {
+      "clinic": "Glow & Grace Skin Clinic",
+      "location": "45, Lokhandwala Complex, Andheri West",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": null,
+    "consultationFee": 1800,
+    "rating": 4.7,
+    "patientStories": 1350,
+    "availability": {
+      "today": true,
+      "timings": "10:00 AM - 5:00 PM"
+    },
+    "contact": "+91 98201 12345"
+  },
+  {
+    "id": 14,
+    "name": "Dr. Sameer Chavan",
+    "speciality": "Orthopedic Surgeon",
+    "experience": "18 years",
+    "address": {
+      "clinic": "Apex OrthoCare",
+      "location": "12, Deccan Gymkhana",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Sancheti Hospital"],
+    "consultationFee": 2000,
+    "rating": 4.8,
+    "patientStories": 1980,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Friday 9:30 AM"
+    },
+    "contact": "+91 98221 54321"
+  },
+  {
+    "id": 15,
+    "name": "Dr. Vikram Singh",
+    "speciality": "Neurologist",
+    "experience": "22 years",
+    "address": {
+      "clinic": "Mind & Nerve Clinic",
+      "location": "Hiranandani Gardens, Powai",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Dr. L H Hiranandani Hospital"],
+    "consultationFee": 2800,
+    "rating": 4.9,
+    "patientStories": 2200,
+    "availability": {
+      "today": true,
+      "timings": "2:00 PM - 7:00 PM"
+    },
+    "contact": "+91 98202 67890"
+  },
+  {
+    "id": 16,
+    "name": "Dr. Sneha Gupta",
+    "speciality": "ENT Specialist",
+    "experience": "10 years",
+    "address": {
+      "clinic": "Nagpur ENT Center",
+      "location": "204, Sitabuldi",
+      "city": "Nagpur",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": null,
+    "consultationFee": 1200,
+    "rating": 4.5,
+    "patientStories": 950,
+    "availability": {
+      "today": true,
+      "timings": "11:00 AM - 8:00 PM"
+    },
+    "contact": "+91 97171 12345"
+  },
+  {
+    "id": 17,
+    "name": "Dr. Priya Mehta",
+    "speciality": "Gynecologist",
+    "experience": "14 years",
+    "address": {
+      "clinic": "Femina Health",
+      "location": "Near Hindu Colony, Dadar East",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": ["Masina Hospital"],
+    "consultationFee": 2100,
+    "rating": 4.8,
+    "patientStories": 2400,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow 11:00 AM"
+    },
+    "contact": "+91 98195 55555"
+  },
+  {
+    "id": 18,
+    "name": "Dr. Arjun Reddy",
+    "speciality": "Dentist",
+    "experience": "6 years",
+    "address": {
+      "clinic": "SmileCrafters Dental",
+      "location": "Phoenix Marketcity, Viman Nagar",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additionalClinics": null,
+    "consultationFee": 900,
+    "rating": 4.6,
+    "patientStories": 780,
+    "availability": {
+      "today": true,
+      "timings": "9:00 AM - 6:00 PM"
+    },
+    "contact": "+91 98228 88888"
+  },
+  {
+    "id": 19,
+    "name": "Dr. Ayan Banerjee",
+    "speciality": "Cardiologist",
+    "experience": "25 years",
+    "address": {
+      "clinic": "Kolkata Heart Institute",
+      "location": "1st Floor, Park Street",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": ["AMRI Hospitals, Dhakuria"],
+    "consultationFee": 2500,
+    "rating": 4.9,
+    "patientStories": 3200,
+    "availability": {
+      "today": true,
+      "timings": "10:00 AM - 4:00 PM"
+    },
+    "contact": "+91 98300 12345"
+  },
+  {
+    "id": 20,
+    "name": "Dr. Ishita Roy",
+    "speciality": "Dermatologist",
+    "experience": "12 years",
+    "address": {
+      "clinic": "The Skin & Hair Clinic",
+      "location": "Ballygunge Circular Road",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": null,
+    "consultationFee": 1600,
+    "rating": 4.8,
+    "patientStories": 1900,
+    "availability": {
+      "today": true,
+      "timings": "11:00 AM - 7:00 PM"
+    },
+    "contact": "+91 98310 54321"
+  },
+  {
+    "id": 21,
+    "name": "Dr. Subir Das",
+    "speciality": "Orthopedic Surgeon",
+    "experience": "20 years",
+    "address": {
+      "clinic": "Apollo Gleneagles Orthopedics",
+      "location": "Canal Circular Road",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": ["Fortis Hospital, Anandapur"],
+    "consultationFee": 2200,
+    "rating": 4.7,
+    "patientStories": 2800,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tomorrow 10:30 AM"
+    },
+    "contact": "+91 98301 67890"
+  },
+  {
+    "id": 22,
+    "name": "Dr. Nandini Sen",
+    "speciality": "Pediatrician",
+    "experience": "18 years",
+    "address": {
+      "clinic": "KidsCare Clinic",
+      "location": "Salt Lake, Sector 1",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": ["Columbia Asia Hospital"],
+    "consultationFee": 1400,
+    "rating": 4.9,
+    "patientStories": 3500,
+    "availability": {
+      "today": true,
+      "timings": "9:00 AM - 5:00 PM"
+    },
+    "contact": "+91 98360 11223"
+  },
+  {
+    "id": 23,
+    "name": "Dr. Arindam Ghosh",
+    "speciality": "ENT Specialist",
+    "experience": "15 years",
+    "address": {
+      "clinic": "Kolkata ENT Centre",
+      "location": "Gariahat Road",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": null,
+    "consultationFee": 1500,
+    "rating": 4.6,
+    "patientStories": 1500,
+    "availability": {
+      "today": true,
+      "timings": "12:00 PM - 8:00 PM"
+    },
+    "contact": "+91 98305 45678"
+  },
+  {
+    "id": 24,
+    "name": "Dr. Sharmila Basu",
+    "speciality": "Gynecologist",
+    "experience": "22 years",
+    "address": {
+      "clinic": "Bhagirathi Neotia Woman & Child Care Centre",
+      "location": "Rawdon Street",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": ["Woodlands Multispeciality Hospital"],
+    "consultationFee": 2000,
+    "rating": 4.9,
+    "patientStories": 4100,
+    "availability": {
+      "today": true,
+      "timings": "10:00 AM - 3:00 PM"
+    },
+    "contact": "+91 98311 98765"
+  },
+  {
+    "id": 25,
+    "name": "Dr. Debashis Mitra",
+    "speciality": "Neurologist",
+    "experience": "28 years",
+    "address": {
+      "clinic": "Institute of Neurosciences",
+      "location": "AJC Bose Road",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": [],
+    "consultationFee": 3000,
+    "rating": 4.9,
+    "patientStories": 3800,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Friday 11:00 AM"
+    },
+    "contact": "+91 98303 33333"
+  },
+  {
+    "id": 26,
+    "name": "Dr. Rina Mukherjee",
+    "speciality": "Dentist",
+    "experience": "10 years",
+    "address": {
+      "clinic": "Smile & Profile Dental Clinic",
+      "location": "New Alipore",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": null,
+    "consultationFee": 1000,
+    "rating": 4.7,
+    "patientStories": 1200,
+    "availability": {
+      "today": true,
+      "timings": "10:00 AM - 7:00 PM"
+    },
+    "contact": "+91 98363 87654"
+  },
+  {
+    "id": 27,
+    "name": "Dr. Prosenjit Sen",
+    "speciality": "Gastroenterologist",
+    "experience": "19 years",
+    "address": {
+      "clinic": "Peerless Hospital",
+      "location": "Panchasayar",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": ["Ruby General Hospital"],
+    "consultationFee": 1800,
+    "rating": 4.7,
+    "patientStories": 2300,
+    "availability": {
+      "today": true,
+      "timings": "3:00 PM - 7:00 PM"
+    },
+    "contact": "+91 98308 24680"
+  },
+  {
+    "id": 28,
+    "name": "Dr. Anirban Dutta",
+    "speciality": "Oncologist",
+    "experience": "24 years",
+    "address": {
+      "clinic": "Tata Medical Center",
+      "location": "New Town",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": [],
+    "consultationFee": 3200,
+    "rating": 4.9,
+    "patientStories": 2900,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Monday 9:00 AM"
+    },
+    "contact": "+91 98315 15151"
+  },
+  {
+    "id": 29,
+    "name": "Dr. Kaushik Sen",
+    "speciality": "Pulmonologist",
+    "experience": "16 years",
+    "address": {
+      "clinic": "Desun Hospital",
+      "location": "Kasba Golpark, EM Bypass",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": ["Medica Superspecialty Hospital"],
+    "consultationFee": 1700,
+    "rating": 4.6,
+    "patientStories": 1650,
+    "availability": {
+      "today": true,
+      "timings": "1:00 PM - 5:00 PM"
+    },
+    "contact": "+91 98366 31313"
+  },
+  {
+    "id": 30,
+    "name": "Dr. Suman Das",
+    "speciality": "Urologist",
+    "experience": "21 years",
+    "address": {
+      "clinic": "Narayana Superspeciality Hospital",
+      "location": "Howrah",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": ["ILS Hospitals, Dum Dum"],
+    "consultationFee": 1900,
+    "rating": 4.8,
+    "patientStories": 2100,
+    "availability": {
+      "today": true,
+      "timings": "4:00 PM - 8:00 PM"
+    },
+    "contact": "+91 98304 11111"
+  },
+  {
+    "id": 31,
+    "name": "Dr. Aparna Chatterjee",
+    "speciality": "Rheumatologist",
+    "experience": "17 years",
+    "address": {
+      "clinic": "The Calcutta Medical Research Institute (CMRI)",
+      "location": "Alipore",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": [],
+    "consultationFee": 2000,
+    "rating": 4.8,
+    "patientStories": 1400,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Wednesday 12:00 PM"
+    },
+    "contact": "+91 98318 81818"
+  },
+  {
+    "id": 32,
+    "name": "Dr. Gautam Ray",
+    "speciality": "Nephrologist",
+    "experience": "26 years",
+    "address": {
+      "clinic": "Rabindranath Tagore International Institute of Cardiac Sciences",
+      "location": "Mukundapur, EM Bypass",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": [],
+    "consultationFee": 2400,
+    "rating": 4.9,
+    "patientStories": 2600,
+    "availability": {
+      "today": true,
+      "timings": "10:00 AM - 2:00 PM"
+    },
+    "contact": "+91 98309 90909"
+  },
+  {
+    "id": 33,
+    "name": "Dr. Bipasha Ghosh",
+    "speciality": "Psychiatrist",
+    "experience": "14 years",
+    "address": {
+      "clinic": "Moner Alo Clinic",
+      "location": "Jodhpur Park",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": null,
+    "consultationFee": 1500,
+    "rating": 4.7,
+    "patientStories": 1100,
+    "availability": {
+      "today": true,
+      "timings": "2:00 PM - 9:00 PM"
+    },
+    "contact": "+91 98368 23232"
+  },
+  {
+    "id": 34,
+    "name": "Dr. Arjun Chakraborty",
+    "speciality": "Endocrinologist",
+    "experience": "18 years",
+    "address": {
+      "clinic": "Belle Vue Clinic",
+      "location": "Loudon Street",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": ["AMRI Hospitals, Salt Lake"],
+    "consultationFee": 2100,
+    "rating": 4.8,
+    "patientStories": 1850,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Thursday 3:00 PM"
+    },
+    "contact": "+91 98319 19191"
+  },
+  {
+    "id": 35,
+    "name": "Dr. Ritika Sharma",
+    "speciality": "Dietitian/Nutritionist",
+    "experience": "9 years",
+    "address": {
+      "clinic": "NutriFit Health",
+      "location": "Camac Street",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": null,
+    "consultationFee": 1200,
+    "rating": 4.8,
+    "patientStories": 1300,
+    "availability": {
+      "today": true,
+      "timings": "9:30 AM - 6:30 PM"
+    },
+    "contact": "+91 98361 78901"
+  },
+  {
+    "id": 36,
+    "name": "Dr. Pradip Saha",
+    "speciality": "General Physician",
+    "experience": "30 years",
+    "address": {
+      "clinic": "Saha's Clinic",
+      "location": "Behala",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": [],
+    "consultationFee": 800,
+    "rating": 4.7,
+    "patientStories": 5500,
+    "availability": {
+      "today": true,
+      "timings": "8:00 AM - 12:00 PM, 6:00 PM - 9:00 PM"
+    },
+    "contact": "+91 98307 10000"
+  },
+  {
+    "id": 37,
+    "name": "Dr. Indrani Dasgupta",
+    "speciality": "Ophthalmologist",
+    "experience": "20 years",
+    "address": {
+      "clinic": "Disha Eye Hospitals",
+      "location": "Barrackpore",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": ["Sankara Nethralaya, Mukundapur"],
+    "consultationFee": 1300,
+    "rating": 4.9,
+    "patientStories": 4500,
+    "availability": {
+      "today": true,
+      "timings": "9:00 AM - 4:00 PM"
+    },
+    "contact": "+91 98313 13131"
+  },
+  {
+    "id": 38,
+    "name": "Dr. Sandip Ghosh",
+    "speciality": "Vascular Surgeon",
+    "experience": "18 years",
+    "address": {
+      "clinic": "Vascular & Vein Clinic",
+      "location": "Southern Avenue",
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "additionalClinics": ["Fortis Hospital, Anandapur"],
+    "consultationFee": 2300,
+    "rating": 4.8,
+    "patientStories": 1700,
+    "availability": {
+      "today": false,
+      "nextAvailable": "Tuesday 5:00 PM"
+    },
+    "contact": "+91 98369 96369"
+  }
+
+]
