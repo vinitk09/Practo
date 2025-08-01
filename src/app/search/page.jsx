@@ -5,7 +5,6 @@ import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
 
-
 const DoctorCard = ({ doctor }) => {
   const doctorImages = [
     "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=300&h=300&fit=crop",
@@ -168,6 +167,75 @@ function SearchContent() {
           <Link href="/" className="text-blue-600 hover:underline mt-2 inline-block">
             ← Back to home
           </Link>
+        </div>
+        
+        {/* Filter Bar - UI Only */}
+        <div className="mb-6 p-4 bg-white rounded-lg shadow">
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+            {/* Gender Filter */}
+            <div>
+              <label htmlFor="gender" className="block text-sm font-medium text-gray-700 mb-1">Gender</label>
+              <select
+                id="gender"
+                className="w-full p-2 border border-gray-300 rounded-md"
+                disabled
+              >
+                <option value="all">All Genders</option>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="other">Other</option>
+              </select>
+            </div>
+            
+            {/* Experience Filter */}
+            <div>
+              <label htmlFor="experience" className="block text-sm font-medium text-gray-700 mb-1">Experience</label>
+              <select
+                id="experience"
+                className="w-full p-2 border border-gray-300 rounded-md"
+                disabled
+              >
+                <option value="all">All Experience</option>
+                <option value="0-5">0-5 years</option>
+                <option value="5-10">5-10 years</option>
+                <option value="10-20">10-20 years</option>
+                <option value="20-">20+ years</option>
+              </select>
+            </div>
+            
+            {/* Patient Stories Filter */}
+            <div>
+              <label htmlFor="patientStories" className="block text-sm font-medium text-gray-700 mb-1">Patient Stories</label>
+              <select
+                id="patientStories"
+                className="w-full p-2 border border-gray-300 rounded-md"
+                disabled
+              >
+                <option value="all">All Ratings</option>
+                <option value="100">100+</option>
+                <option value="500">500+</option>
+                <option value="1000">1000+</option>
+              </select>
+            </div>
+            
+            {/* Sort By Filter */}
+            <div>
+              <label htmlFor="sortBy" className="block text-sm font-medium text-gray-700 mb-1">Sort By</label>
+              <select
+                id="sortBy"
+                className="w-full p-2 border border-gray-300 rounded-md"
+                disabled
+              >
+                <option value="default">Default</option>
+                <option value="experience-high">Experience (High to Low)</option>
+                <option value="experience-low">Experience (Low to High)</option>
+                <option value="rating-high">Rating (High to Low)</option>
+                <option value="rating-low">Rating (Low to High)</option>
+                <option value="fee-high">Fee (High to Low)</option>
+                <option value="fee-low">Fee (Low to High)</option>
+              </select>
+            </div>
+          </div>
         </div>
         
         <div className="space-y-6">
