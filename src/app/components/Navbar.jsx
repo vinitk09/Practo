@@ -34,16 +34,13 @@ const Navbar = () => {
     <nav className='bg-white shadow-md relative z-50'>
       <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'>
         <div className='flex justify-between items-center h-16'>
-          {/* Left side - Logo and main links */}
           <div className='flex items-center space-x-4 md:space-x-8'>
-            {/* Logo */}
            <div className="flex items-center">
             <div className="text-2xl font-bold text-blue-600">
               <span className="bg-blue-600 text-white px-2 py-1 rounded-md mr-1">p</span>
               racto
             </div>
           </div>
-            {/* Main navigation links - hidden on mobile, shown on md+ */}
             <div className="hidden md:flex space-x-6">
               <Link 
                 href="/doctors" 
@@ -66,9 +63,7 @@ const Navbar = () => {
             </div>
           </div>
 
-          {/* Right side - Secondary links with dropdowns and button */}
           <div className="hidden md:flex items-center space-x-6">
-            {/* Corporate Dropdown */}
             <div className="relative">
               <button 
                 onClick={() => toggleDropdown('corporate')}
@@ -101,7 +96,6 @@ const Navbar = () => {
               )}
             </div>
 
-            {/* Providers Dropdown */}
             <div className="relative">
               <button 
                 onClick={() => toggleDropdown('providers')}
@@ -134,7 +128,6 @@ const Navbar = () => {
               )}
             </div>
 
-            {/* Security/Help Dropdown */}
             <div className="relative">
               <button 
                 onClick={() => toggleDropdown('security')}
@@ -175,7 +168,6 @@ const Navbar = () => {
             </Link>
           </div>
 
-          {/* Mobile menu button - shown on mobile, hidden on md+ */}
           <div className="md:hidden flex items-center">
             <button 
               onClick={() => setIsOpen(!isOpen)}
@@ -195,7 +187,6 @@ const Navbar = () => {
         </div>
       </div>
 
-      {/* Mobile menu - shown when isOpen is true */}
       <div className={`md:hidden ${isOpen ? 'block' : 'hidden'}`}>
         <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
           <Link 
@@ -220,7 +211,6 @@ const Navbar = () => {
             Surgeries
           </Link>
 
-          {/* Mobile Dropdown - Corporate */}
           <div>
             <button 
               onClick={() => toggleDropdown('corporate-mobile')}
@@ -255,7 +245,6 @@ const Navbar = () => {
             )}
           </div>
 
-          {/* Mobile Dropdown - Providers */}
           <div>
             <button 
               onClick={() => toggleDropdown('providers-mobile')}
@@ -290,7 +279,6 @@ const Navbar = () => {
             )}
           </div>
 
-          {/* Mobile Dropdown - Security/Help */}
           <div>
             <button 
               onClick={() => toggleDropdown('security-mobile')}
