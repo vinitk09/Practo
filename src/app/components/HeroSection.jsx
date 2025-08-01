@@ -24,7 +24,6 @@ const HeroSection = () => {
         const response = await fetch('/doctors.json');
         const doctors = await response.json();
         
-        // ✅ CORRECTED: Extract unique states from doctor.address.state
         const uniqueStates = [...new Set(doctors.map(doctor => doctor.address.state))]
           .map((state, index) => ({
             id: index + 1,
@@ -63,7 +62,6 @@ const HeroSection = () => {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gray-900">
-      {/* Background image */}
       <div className="absolute inset-0">
         <Image
           src="https://images.rawpixel.com/image_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0zNzNiYXRjaDE1LWJnLTExLmpwZw.jpg"
@@ -82,9 +80,7 @@ const HeroSection = () => {
           Find and book appointments with top healthcare providers in India
         </p>
         
-        {/* Search Form */}
         <form onSubmit={handleSearch} className="flex flex-col sm:flex-row justify-center max-w-2xl mx-auto bg-white rounded-lg shadow-lg overflow-hidden">
-          {/* State dropdown */}
           <div className="relative flex-shrink-0 w-full sm:w-auto">
             <select
               className="appearance-none bg-gray-100 text-gray-700 py-3 px-6 pr-10 border-r border-gray-200 focus:outline-none focus:bg-white focus:ring-2 focus:ring-blue-500 w-full h-full"
@@ -106,11 +102,10 @@ const HeroSection = () => {
             </div>
           </div>
           
-          {/* Search input */}
           <div className="flex flex-grow">
             <input
               type="text"
-              placeholder="Search specialists (e.g., Dermatology, Cardiology)"
+              placeholder="Search specialists (e.g., Dermatologist, Cardiologist)"
               className="flex-grow py-3 px-6 border-none text-gray-800 focus:outline-none focus:ring-2 focus:ring-blue-500"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
@@ -129,7 +124,6 @@ const HeroSection = () => {
         </form>
       </div>
 
-      {/* Services bar */}
       <div className="relative z-10 w-full mt-auto">
          <div className="flex justify-center items-center px-4 sm:px-8 py-6 bg-gray-800/90 backdrop-blur-sm">
            <div className="flex flex-wrap justify-center gap-6 sm:gap-8">
